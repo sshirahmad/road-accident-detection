@@ -1,4 +1,4 @@
-# [Deep Representation of Imbalanced Spatio-temporal Traffic Flow Data for Traffic Accident Detection (paper)](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12287)
+# [Deep Representation of Imbalanced Spatio-temporal Traffic Flow Data for Traffic Accident Detection (Paper)](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12287)
 
 In this work, we attempted to detect road accidents using spatio-temporal features of automatic traffic counters. We demonstrated that using time-series encoder implemented by LSTM layers increases the class-separability of feature space. Furthermore, our proposed method outperformed existing methods on detection accuracy. 
 <p align="center"> <img src='./docs/overview.png' align="center" > </p>
